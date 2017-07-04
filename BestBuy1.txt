@@ -1,0 +1,70 @@
+laptop at 1000
+10 sales of laptop at 1000 each
+Add 250 laptops
+Watch at 250
+100 sales of watches at 250 each
+Multiply 100 Watches
+Tablet at 500
+30 sales of tablet at 500 each
+Add 100 Watches
+10 sales of phones at 150 each
+television at 1500
+5 sales of televisions at 150 each
+printers at 60
+50 sales of printers at 60 each
+Drone at 600
+Add 750 Drones
+50 sales of speakers at 50 each
+laptop at 1000
+10 sales of laptop at 1000 each
+Add 250 laptops
+Watch at 250
+100 sales of watches at 250 each
+Subtract 100 Watches
+Tablet at 500
+30 sales of tablet at 500 each
+Subtract 100 Watches
+200 sales of phones at 150 each
+television at 1500
+5 sales of televisions at 150 each
+printers at 60
+50 sales of printers at 60 each
+Drone at 600
+Multiply 750 Drones
+50 sales of speakers at 50 each
+laptop at 1000
+10 sales of laptop at 1000 each
+Multiply 250 laptops
+Watch at 250
+100 sales of watches at 250 each
+Add 100 Watches
+Tablet at 500
+30 sales of tablet at 500 each
+Subtract 100 Watches
+200 sales of phones at 150 each
+television at 1500
+5 sales of televisions at 150 each
+printers at 60
+50 sales of printers at 60 each
+Drone at 600
+Add 750 Drones
+50 sales of speakers at 50 each
+laptop at 1000
+10 sales of laptop at 1000 each
+Add 250 laptops
+Watch at 250
+100 sales of watches at 250 each
+Add 100 Watches
+Tablet at 500
+30 sales of tablet at 500 each
+Add 100 Watches
+200 sales of phones at 150 each
+television at 1500
+5 sales of televisions at 150 each
+printers at 60
+50 sales of printers at 60 each
+Drone at 600
+Substract 150 Drones
+50 sales of speakers at 50 each
+20 sales of drones at 450 each
+30 sales of tablet at 500 each
